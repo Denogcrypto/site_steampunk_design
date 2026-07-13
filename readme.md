@@ -51,4 +51,12 @@ Se implementó un motor de plantillas en el lado del cliente que utiliza paráme
 2. Abrir `index.html` (se recomienda usar **Live Server** para asegurar el correcto funcionamiento del LocalStorage y las rutas relativas).
 
 ---
+
+## Actualización del contenido del sitio
+
+1. Se agregaron los objetos y la descripcion de los mismos
+2. Se actualizaron los link de las redes sociales que se encuentran en el footer
+
+---
+
 *Hecho a mano; Forjamos hoy, las antigüedades del mañana.* 🕰️
