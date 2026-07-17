@@ -568,7 +568,7 @@ h6,
    CABECERA DE PÁGINAS INTERNAS
 ================================== */
 .sp-page-header {
-    padding-top: 90px; /* compensa el header fijo (~75px) + margen extra */
+    padding-top: 100px; /* compensa el header fijo (~75px) + margen cómodo */
     padding-bottom: 2rem;
     text-align: center;
     background: var(--bg-dark);
@@ -1146,9 +1146,9 @@ h6,
 }
 
 @media (max-width: 767px) {
-    /* Página de cabecera interna: más padding-top para el navbar fijo */
+    /* Página de cabecera interna: más padding-top para el navbar fijo en mobile */
     .sp-page-header {
-        padding-top: 80px;
+        padding-top: 110px;
     }
 
     /* Producto imagen: altura menor en mobile para no ocupar toda la pantalla */
